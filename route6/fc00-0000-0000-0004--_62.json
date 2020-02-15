@@ -1,0 +1,11 @@
+{
+    "ip": "fc00:0000:0000:0004::",
+    "name": "VPN router network Single IP",
+    "org" : "ORG-kneate",
+    "prefix": 62,
+    "route6": "fc00:0000:0000:0004::/62",
+    "origin": [
+        4200000002
+    ]
+
+}
