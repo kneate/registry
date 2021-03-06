@@ -1,7 +1,4 @@
 {
     "name": "zarlo",
-    "org" : "ORG-zarlo",
-    "peers" : [
-        4200000000
-    ]
+    "org" : "ORG-zarlo"
 }

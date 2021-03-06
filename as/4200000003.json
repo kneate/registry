@@ -1,7 +1,0 @@
-{
-    "name": "root DNS",
-    "org" : "ORG-kneate",
-    "peers" : [
-        4200000000
-    ]
-}

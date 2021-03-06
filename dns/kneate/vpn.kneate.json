@@ -1,0 +1,7 @@
+{
+    "tld": "vpn.kneate",
+    "ns": [
+        "ns1.nic.kneate",
+        "ns2.nic.kneate"
+    ]
+}

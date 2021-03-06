@@ -1,0 +1,14 @@
+{
+    "ip": "fc00:0000:0010:0001::",
+    "name": "zarlo",
+    "org" : "ORG-zarlo",
+    "prefix": 64,
+    "route6": "fc00:0000:0010:0001::/64",
+    "ns": [
+        "ns1.zarlo.kneate",
+        "ns2.zarlo.kneate"
+    ],
+    "origin": [
+        4200000011
+    ]
+}

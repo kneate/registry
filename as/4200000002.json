@@ -1,7 +1,4 @@
 {
-    "name": "VPN router network Single IP",
-    "org" : "ORG-kneate",
-    "peers" : [
-        4200000000
-    ]
+    "name": "cluster-out / NAT64",
+    "org" : "ORG-kneate"
 }

@@ -1,0 +1,12 @@
+{
+    "ip": "fc00:0000:0000:0003::",
+    "name": "ny.vpn.kneate",
+    "desc": "",
+    "org" : "ORG-kneate",
+    "prefix": 64,
+    "route6": "fc00:0000:0000:0003::/64",
+    "origin": [
+        4200000000
+    ]
+
+}

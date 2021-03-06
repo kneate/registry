@@ -1,7 +1,4 @@
 {
-    "name": "nic.kneate edge router network",
-    "org" : "ORG-kneate",
-    "peers" : [
-        
-    ]
+    "name": "core.nic.kneate CORE router network (VPN)",
+    "org" : "ORG-kneate"
 }

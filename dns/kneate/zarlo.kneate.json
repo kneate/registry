@@ -1,0 +1,11 @@
+{
+    "tld": "zarlo.kneate",
+    "ns": [
+        "ns1.zarlo.kneate",
+        "ns2.zarlo.kneate"
+    ],
+    "glue": [
+        ["ns1.zarlo.kneate", "fc00:0000:000F:0001:0000:0000:0000:0001"],
+        ["ns2.zarlo.kneate", "fc00:0000:000F:0001:0000:0000:0001:0001"]
+    ]
+}

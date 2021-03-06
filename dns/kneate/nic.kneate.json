@@ -1,0 +1,11 @@
+{
+    "tld": "nic.kneate",
+    "ns": [
+        "ns1.nic.kneate",
+        "ns2.nic.kneate"
+    ],
+    "glue": [
+        ["ns1.nic.kneate", "fc00:0000:0000:0000:0000:0000:0000:0001"],
+        ["ns2.nic.kneate", "fc00:0000:0000:0001:0000:0000:0000:0001"]
+    ]
+}

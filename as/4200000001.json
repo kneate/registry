@@ -1,7 +1,4 @@
 {
-    "name": "VPN router network",
-    "org" : "ORG-kneate",
-    "peers" : [
-        4200000000
-    ]
+    "name": "nic.kneate Anycast",
+    "org" : "ORG-kneate"
 }
